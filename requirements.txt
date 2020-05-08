@@ -1,0 +1,6 @@
+#name [condition] [version]
+#condition    ==, >=, <=, >, <
+jieba
+bert4keras
+tensorflow-gpu==1.13
+gpustat
