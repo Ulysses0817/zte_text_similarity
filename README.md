@@ -1,4 +1,4 @@
-目录
+## 目录
 
 1. 比赛介绍
 2. 数据集分析
@@ -237,7 +237,7 @@ python fine_tune_debug.py --maxlen=128 --epochs=1 --batch_size=64 --config_path=
 
 具体参数含义可以运行以下代码，或直接在代码中查看：
 
-```python
+```shell
 python fine_tune.py --help
 
 输出：
